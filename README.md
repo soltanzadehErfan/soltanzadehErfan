@@ -10,9 +10,6 @@ Hello there! 👋 I'm Erfan, a passionate Flutter developer. I spend my days cra
 
 ## Get in Touch
 
-
-## Connect with me
-
 📧 Feel free to reach out to me via email at [soltanzadeh836@gmail.com](mailto:soltanzadeh836@gmail.com).
 
 <div align="center" dir="auto">
