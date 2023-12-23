@@ -6,7 +6,7 @@ Hello there! 👋 I'm Erfan, a passionate Flutter developer. I spend my days cra
 
 ## Languages and Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,git,postman,html,css,xd,figma,&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,gradle,git,postman,html,css,xd,figma,&perline=4)](https://skillicons.dev)
 
 ## Get in Touch
 
