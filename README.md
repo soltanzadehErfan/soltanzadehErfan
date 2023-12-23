@@ -32,12 +32,6 @@ Hello there! 👋 I'm Erfan, a passionate Flutter developer. I spend my days cra
 
 - [LinkedIn]([https://www.linkedin.com/in/erfan](https://www.linkedin.com/in/erfan-soltanzadeh/))
 
-## Goals
-
-I'm on a journey to:
-
-- 🚀 Enhance my skills as a software engineer.
-
 Feel free to explore my repositories, and let's connect and collaborate on exciting projects!
 
 Happy coding! 🚀
