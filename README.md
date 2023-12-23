@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! 👋 I'm Erfan, a passionate Flutter developer. I spend my days crafting code and exploring the vast landscape of technology. When I'm not immersed in the world of programming, you'll find me enjoying music, diving into gaming adventures, and pondering about soft skills, leadership, and the secrets of the tech industry.
+Hello there! 👋 I'm Erfan, a passionate Flutter and Cross platfrom developer. I spend my days crafting code and exploring the vast landscape of technology. When I'm not immersed in the world of programming, you'll find me enjoying music, diving into gaming adventures, and pondering about soft skills, leadership, and the secrets of the tech industry.
 
 ## Languages and Tools
 
