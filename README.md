@@ -17,6 +17,7 @@ Hello there! 👋 I'm Erfan, a passionate Flutter developer. I spend my days cra
   ![Communication](https://img.shields.io/badge/Communication-%230A77C8.svg?&style=for-the-badge)
   ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%234CAF50.svg?&style=for-the-badge)
   ![Adaptability](https://img.shields.io/badge/Adaptability-%23FFA500.svg?&style=for-the-badge)
+  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,git,androidstudio,)](https://skillicons.dev)
 
 
 ## Professional Background
@@ -28,7 +29,7 @@ Hello there! 👋 I'm Erfan, a passionate Flutter developer. I spend my days cra
 
 📧 Feel free to reach out to me via email at [soltanzadeh836@gmail.com](mailto:soltanzadeh836@gmail.com).
 
-## Connect on Social Media
+## Connect with me
 
 - [LinkedIn]([https://www.linkedin.com/in/erfan](https://www.linkedin.com/in/erfan-soltanzadeh/))
 
