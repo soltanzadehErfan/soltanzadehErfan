@@ -13,6 +13,4 @@ Hello there! 👋 I'm Erfan, a passionate Flutter and Cross platfrom developer. 
 <div align="center" dir="auto">
 <a href="https://www.linkedin.com/in/erfan-soltanzadeh" rel="nofollow">
 <img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
-  <a href="https://wakatime.com/badge/user/018c964f-3eee-4707-91ba-1979098e2a6e/project/018c9650-9c65-46b6-8be9-e9d680404b5e"><img src="https://wakatime.com/badge/user/018c964f-3eee-4707-91ba-1979098e2a6e/project/018c9650-9c65-46b6-8be9-e9d680404b5e.svg" alt="wakatime"></a>
 </div>
