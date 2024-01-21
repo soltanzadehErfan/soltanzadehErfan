@@ -6,7 +6,7 @@ Hello there! 👋 I'm Erfan, a passionate Flutter and Cross platfrom developer. 
 
 ## Languages and Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,gradle,git,postman,html,css,xd,figma,&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,gradle,git,postman,html,css,xd,figma,&perline=5)](https://skillicons.dev)
 
 ## Get in Touch
 
