@@ -11,5 +11,5 @@ Hello there! 👋 I'm Erfan, a passionate Flutter and Cross platfrom developer. 
 ## Get in Touch
 
 <div align="center" dir="auto">
-<a href="https://www.linkedin.com/in/erfan-soltanzadeh" rel="nofollow">
+<a href="https://www.linkedin.com/in/erfan-soltanzadeh" rel="nofollow">linkedin</a>
 </div>
