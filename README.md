@@ -13,3 +13,5 @@ Hello there! 👋 I'm Erfan, a passionate Flutter and Cross platform developer. 
 <div align="center" dir="auto">
 <a href="https://www.linkedin.com/in/erfan-soltanzadeh" rel="nofollow">linkedin</a>
 </div>
+
+I sometimes share my thoughts and experiences on [Medium](<Your Medium Profile Link>), offering insights into my journey and the lessons I've learned.
