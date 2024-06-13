@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! 👋 I'm Erfan, a passionate Software engineer. I spend my days crafting code and exploring the vast landscape of technology. When I'm not immersed in the world of programming, you'll find me enjoying music, diving into gaming adventures, and the secrets of the tech industry.
+passionate Software engineer who spend he's days crafting code and exploring the vast landscape of technology.
 
 ## Languages and Tools
 
