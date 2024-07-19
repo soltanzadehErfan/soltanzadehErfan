@@ -43,7 +43,7 @@ I'm an staff of Persian Flutter, if you speak Persian and love Flutter you can j
 ### Languages & Tools
 <div>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-12345E?style=flat&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 </div>
