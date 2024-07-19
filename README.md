@@ -1,23 +1,9 @@
 # Erfan's GitHub Profile
 
-## About Me
-
-passionate Software engineer who spend he's days crafting code and exploring the vast landscape of technology.
-
-## Languages and Tools
-
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,gradle,git,firebase,postman,html,css,xd,figma,&perline=5)](https://skillicons.dev)
-  
-  ## Get in Touch
-
-<div align="center" dir="auto">
-<a href="https://www.linkedin.com/in/erfan-soltanzadeh" rel="nofollow">linkedin</a>
-</div>
-
-
 ### Hi, I'm  Erfan. You can also Call me (WOFA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
+  
 <p align="center">Join Me In Socials!</p>
   
 <a href="https://medium.com/@erfan-soltanzadeh/">
@@ -32,7 +18,6 @@ passionate Software engineer who spend he's days crafting code and exploring the
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-
 </div>
 
 ### I'm a Software Engineer, Developer and #Flutter lover
@@ -45,7 +30,7 @@ passionate Software engineer who spend he's days crafting code and exploring the
 - ⚡ Fun fact: I Love 🏀Basketball, :electron:Quantom, 🚀Space and 🎮Dota 2
 
 ### Persian Flutter Community
-I'm a leader of Persian Flutter, if you speak Persian and love Flutter you can join us now
+I'm an staff of Persian Flutter, if you speak Persian and love Flutter you can join us now
 
 - Find all thing about Persian Flutter in our <a href="http://persianflutter.com">
         <img src="https://img.shields.io/website-up-down-green-red/http/persianflutter.com.svg" />
