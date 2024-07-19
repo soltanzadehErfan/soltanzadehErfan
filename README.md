@@ -24,7 +24,7 @@ passionate Software engineer who spend he's days crafting code and exploring the
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/payamzahedi95/">
+<a href="www.linkedin.com/in/erfan-soltanzadeh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
