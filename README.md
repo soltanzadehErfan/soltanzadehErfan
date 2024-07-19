@@ -44,7 +44,7 @@ I'm an staff of Persian Flutter, if you speak Persian and love Flutter you can j
 ### Languages & Tools
 <div>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-14354C?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
