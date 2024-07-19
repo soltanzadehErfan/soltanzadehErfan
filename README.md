@@ -15,24 +15,17 @@ passionate Software engineer who spend he's days crafting code and exploring the
 </div>
 
 
-### Hey there, I'm  Payam. You can also Call me (HEDI) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm  Erfan. You can also Call me (WOFA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
 <p align="center">Join Me In Socials!</p>
-<a href="https://www.twitter.com/payamzahedi95/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-    
-<a href="https://medium.com/@payam-zahedi/">
+  
+<a href="https://medium.com/@erfan-soltanzadeh/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/payamzahedi95/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/9689717/payam-zahedi?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
 <a href="https://t.me/payamzahedi95/">
@@ -74,7 +67,4 @@ I'm a leader of Persian Flutter, if you speak Persian and love Flutter you can j
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 </div>
-
-### GitHub Statistics
-[![Erfan Soltanzadeh GitHub Stats](https://github-readme-stats.vercel.app/api?username=soltanzadeherfan&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
