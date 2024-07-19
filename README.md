@@ -23,11 +23,10 @@
 ### I'm a Software Engineer, Developer and #Flutter lover
 - 💖 First Of all I love My Happiness
 - 🔭 I’m realy interested about Flutter and dart
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Swift
 - 💬 Ask me anything about flutter and dart
 - 🌏 You can find me in social that is mentioned in top
-- 📨 Or for fast way just send me a Mail in pzahedi1995@gmail.com
-- ⚡ Fun fact: I Love 🏀Basketball, :electron:Quantom, 🚀Space and 🎮Dota 2
+- 📨 Or for fast way just send me a Mail in soltanzadeh836@gmail.com
 
 ### Persian Flutter Community
 I'm an staff of Persian Flutter, if you speak Persian and love Flutter you can join us now
