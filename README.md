@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m really interested about Dart and Flutter<br>💬 Ask me anything about Android and Flutter<br>📨 My email adderess: serfansoltanzadeh@gmail.com
+🔭 I’m really interested about Dart and Flutter<br>💬 Ask me anything about Flutter<br>📨 My email adderess: serfansoltanzadeh@gmail.com
 
 
 ## 🌐 Socials:
